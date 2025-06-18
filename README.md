@@ -30,7 +30,7 @@ groq
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/investment-advisor.git
+Clone the repository:git clone https://github.com/Atharv901/investment-advisor.git
 cd investment-advisor
 
 
